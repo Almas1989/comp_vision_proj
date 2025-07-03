@@ -1,0 +1,14 @@
+train: D:/python_proj/comp_vision_proj/data/augmented/train/images
+val: D:/python_proj/comp_vision_proj/data/augmented/val/images
+test: D:/python_proj/comp_vision_proj/data/augmented/test/images
+
+nc: 6
+
+names: [
+'tea',
+'salads',
+'kebab',
+'chicken steak',
+'soup',
+'empty dishes'
+]
